@@ -1,0 +1,20 @@
+[gd_scene format=3 uid="uid://daljagbgo0uxw"]
+
+[ext_resource type="Script" uid="uid://b1qjkxsqggaex" path="res://bloqueo.lock.gd" id="1_4mcok"]
+[ext_resource type="Texture2D" uid="uid://cxsk6un30ev7d" path="res://images.png" id="1_nix3q"]
+
+[node name="Fresa" type="Control" unique_id=1134211509]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_4mcok")
+
+[node name="TextureRect" type="TextureRect" parent="." unique_id=771884652]
+texture_filter = 1
+layout_mode = 0
+offset_right = 160.0
+offset_bottom = 160.0
+texture = ExtResource("1_nix3q")
