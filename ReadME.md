@@ -8,3 +8,6 @@ El virus va del videojuego celeste, donde aparece Madeline bloqueando el uso del
 
 **Motor utilizado**
 GODOT 4.7.2
+
+**ejecutables**
+ZIP: https://mega.nz/file/egBTQJrS#lKgZdKnKUYTrlpmdjCGthjyiHHHXNAofPt3CDeKapzw
